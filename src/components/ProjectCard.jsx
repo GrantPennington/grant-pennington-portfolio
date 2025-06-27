@@ -101,7 +101,7 @@ const ProjectCard = ({ title, description, tech, image, liveLink, repoLink }) =>
             <Button
                 variant="outlined"
                 size="small"
-                href={liveLink}
+                href={repoLink}
                 target="_blank"
                 sx={{
                     borderColor: theme.palette.secondary.main,
