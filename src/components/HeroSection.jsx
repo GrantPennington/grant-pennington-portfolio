@@ -25,7 +25,15 @@ const HeroSection = () => {
                     <Button variant="contained" color="primary" href="#projects">
                         View My Work
                     </Button>
-                    <Button variant="outlined" color="primary" href="#resume">
+                    <Button 
+                        component="a" 
+                        variant="outlined" 
+                        color="primary" 
+                        href="/Grant_pennington_Resume_2.pdf"
+                        download
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
                         Download Resume
                     </Button>
                 </Stack>

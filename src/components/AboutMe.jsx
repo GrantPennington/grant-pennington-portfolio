@@ -89,7 +89,7 @@ const AboutMe = () => {
             color="text.secondary"
             sx={{ maxWidth: '700px', mx: 'auto', mb: 6, textAlign: 'center' }}
         >
-            I’m a full-stack software engineer who builds fast, modern web applications using clean code and scalable architecture. 
+            I'm a full-stack software engineer with a Bachelor’s degree in Computer Science from Bellarmine University. I build fast, modern web applications using clean code and scalable architecture.
             I’m a fast learner who thrives on mastering new technologies and never shies away from a challenge. 
             I care deeply about performance, developer experience, and crafting tools that solve real problems.
         </Typography>
