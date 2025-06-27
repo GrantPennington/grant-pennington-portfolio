@@ -27,7 +27,7 @@ const HeroSection = () => {
                     </Button>
                     <Button
                         component="a"
-                        href="/Grant_Pennington_Resume_2.pdf"
+                        href="/Grant_Pennington_Resume_Final.pdf"
                         download
                         variant="contained"
                         color="primary"
