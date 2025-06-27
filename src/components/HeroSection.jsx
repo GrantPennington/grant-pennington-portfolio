@@ -25,14 +25,12 @@ const HeroSection = () => {
                     <Button variant="contained" color="primary" href="#projects">
                         View My Work
                     </Button>
-                    <Button 
-                        component="a" 
-                        variant="outlined" 
-                        color="primary" 
-                        href="/Grant_pennington_Resume_2.pdf"
+                    <Button
+                        component="a"
+                        href="/Grant_Pennington_Resume_2.pdf"
                         download
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        variant="contained"
+                        color="primary"
                     >
                         Download Resume
                     </Button>
