@@ -10,7 +10,7 @@ const Navbar = () => {
                 </Typography>
                 <Box>
                     <Button color="inherit" sx={{ mx: 1 }} href="#projects">Projects</Button>
-                    <Button color="inherit" sx={{ mx: 1 }} href="#resume">Resume</Button>
+                    <Button color="inherit" sx={{ mx: 1 }} href="#about">About Me</Button>
                     <Button color="inherit" sx={{ mx: 1 }} href="#contact">Contact</Button>
                 </Box>
             </Toolbar>
